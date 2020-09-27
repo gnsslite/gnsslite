@@ -1,8 +1,9 @@
 Quectel Privacy Agreement
 ==== 
 Drafting Date: September 08, 2020
+————————————
 Effective Date:
-
+————————————
 This Quectel Privacy Agreement is applicable to all products and services provided by Quectel (hereinafter referred to as "Quectel" and "We"), and stipulates what data to collect, why to collect these data, how to use these data to do what and how to protect these data. We will protect your personal information in accordance with the principles of "lawfulness, fairness and transparency, purpose limitation, data minimization, accuracy storage limitation integrity, confidentiality and accountability, etc.". Please carefully read this Policy (especially the bold and underlined content). Once you choose to use or continue to use Quectel’s products and services after Quectel’s updates of this Privacy Policy, it means that you acknowledge and accept all content of this Policy, and that you agree Quectel to collect, use, store and share your related information in accordance with this Policy. If you do not agree with any of the terms of this Privacy Policy, you should immediately stop using Quectel’s products and services. 
 
 ###### I.	Collection and Use of Personal Information;
