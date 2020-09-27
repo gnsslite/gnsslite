@@ -11,21 +11,21 @@ This Quectel Privacy Agreement is applicable to all products and services provid
 ###### III.	Sharing, Transfer and Disclosure of Information;
 ###### IV.	Information Security Protection of Quectel;
 ###### V.	Your Management of Personal Information;
-######VI.	Disputes;
-######VII.	Information Protection for Minors;
-######VIII.	Others;
-######IX.	Contact us.
+###### VI.	Disputes;
+###### VII.	Information Protection for Minors;
+###### VIII.	Others;
+###### IX.	Contact us.
 
 # I.	Collection and Use of Personal Information
 "Personal information" refers to all kinds of information recorded by electronic or other means that can identify the identity of a specific natural person or reflect the activities of a specific natural person alone or in combination with other information. Basic record information and other information that cannot identify your personal identity or activity by itself or in combination with other information is not in the scope of your personal information.
-##i.	When you turn on the device location feature and use related products or services of Quectel, Quectel may use GPS, WiFi or other technical means to collect and process information about your actual location. If you do not want to be accessed, you may choose to turn off related functions in the device or products/services, but this may affect Quectel’s provision of related services to you.
-##ii.	Quectel will use the information collected for the purpose of achieving the functions of Quectel’s products and/or services in accordance with the provisions of this Privacy Policy. 
-##iii.	After collecting your personal information, Quectel will de-identify the data through technical means. 
-##iv.	When Quectel intends to use your personal information for other purposes not specified in this Policy, or use the information collected based on a specific purpose for other purposes, it will ask you for prior consent through your initiative to make a check.
-#II.	Cookies and Other Technologies 
-##i.	When you use Quectel products or services, in order to make your access experience easier, we may use various technologies to collect and store information. In the process, we may send one or more Cookie or anonymous identifiers to your device.
-##ii.	When you use Quectel products or services, we may also use Cookie and similar technologies to collect your information for data analysis, improve product services and user experience, discover and guard against security risks in time, and provide better services for users and partners.
-##iii.	We will not use cookies for any purpose other than that stated in this Agreement, and you can keep or delete cookies according to your own preference. You can clear all Cookie stored in the software, and your related information will be deleted when you clear them manually.
+## i.	When you turn on the device location feature and use related products or services of Quectel, Quectel may use GPS, WiFi or other technical means to collect and process information about your actual location. If you do not want to be accessed, you may choose to turn off related functions in the device or products/services, but this may affect Quectel’s provision of related services to you.
+## ii.	Quectel will use the information collected for the purpose of achieving the functions of Quectel’s products and/or services in accordance with the provisions of this Privacy Policy. 
+## iii.	After collecting your personal information, Quectel will de-identify the data through technical means. 
+## iv.	When Quectel intends to use your personal information for other purposes not specified in this Policy, or use the information collected based on a specific purpose for other purposes, it will ask you for prior consent through your initiative to make a check.
+# II.	Cookies and Other Technologies 
+## i.	When you use Quectel products or services, in order to make your access experience easier, we may use various technologies to collect and store information. In the process, we may send one or more Cookie or anonymous identifiers to your device.
+## ii.	When you use Quectel products or services, we may also use Cookie and similar technologies to collect your information for data analysis, improve product services and user experience, discover and guard against security risks in time, and provide better services for users and partners.
+## iii.	We will not use cookies for any purpose other than that stated in this Agreement, and you can keep or delete cookies according to your own preference. You can clear all Cookie stored in the software, and your related information will be deleted when you clear them manually.
 
 # III.	Sharing, Transfer and Disclosure of Information 
 
