@@ -40,17 +40,17 @@ You have the right to inquire, correct, manage and delete your own information a
 Unless otherwise stipulated by laws and regulations, you can exercise your right by exporting and recording relevant log files.
 ## ii.	Correct
 When you need to update your personal information, or find that there is an error in our handling of your personal information, you have the right to make corrections or updates. You can make corrections in the Quectel products by yourself, or submit your correction application to us through feedback and error reporting.
-##iii.	Delete
+## iii.	Delete
 You can delete your information through settings or function controls in the product.
-##iv.	Withdraw
+## iv.	Withdraw
 You have the right to change the scope of your authorization or withdraw your authorization by deleting information, turning off device features, privacy settings in websites or software, etc.
-##v.	Manage
+## v.	Manage
 We will make reasonable commercial efforts to meet your requirements for inquiring, correcting, managing, deleting and obtaining copies of personal information. However, we may refuse requests that are repeated for no reason, require too many technical means, bring risks to the legitimate rights and interests of others, or are very unrealistic.
 
-#VI.	Disputes
-##i.	Applicable Law
+# VI.	Disputes
+## i.	Applicable Law
 The execution, interpretation and dispute resolution of this Agreement shall be governed by the laws of the People's Republic of China, excluding any conflict laws.
-##ii.	Jurisdiction
+## ii.	Jurisdiction
 In case of any dispute between you and Yuanyuan on the content of this agreement or its implementation, both parties shall settle it through friendly negotiation; If both parties fail to settle the dispute through negotiation, both parties agree to submit the dispute to the people's court where the product or service provider resides.
 
 # VII.	Information Protection for Minors
