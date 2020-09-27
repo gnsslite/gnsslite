@@ -59,13 +59,13 @@ Quectel attaches great importance to the protection of personal information of m
 ## i.	Quectel may update this agreement from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. If you continue to use our products or services, you agree to the revised privacy agreement.
 
 ## ii.	Your authorization is not required for collecting and using your relevant information in accordance with laws and regulations under the following circumstances:
-	Related to national security and national defense security; 
-	Related to public safety, public health and major public interests; 
-	Related to criminal investigation, prosecution, trial and execution of judgment; 
-	It is difficult to obtain personal consent for the protection of the subject of personnel information or material legitimate rights and interests such as the lives and property of other individuals.
-	Required to maintain the safe and stable operation of the products and/or services provided, such as detection and handling of malfunctions of products and/or services.
-	Required for legitimate news reporting; 
-	As required for statistics or academic research based on public interest, academic research institutions de-identify personal information contained in the academic research or description results provided externally;
-	Other conditions prescribed by laws and regulations.
+*	Related to national security and national defense security; 
+*	Related to public safety, public health and major public interests; 
+*	Related to criminal investigation, prosecution, trial and execution of judgment; 
+*	It is difficult to obtain personal consent for the protection of the subject of personnel information or material legitimate rights and interests such as the lives and property of other individuals.
+*	Required to maintain the safe and stable operation of the products and/or services provided, such as detection and handling of malfunctions of products and/or services.
+*	Required for legitimate news reporting; 
+*	As required for statistics or academic research based on public interest, academic research institutions de-identify personal information contained in the academic research or description results provided externally;
+*	Other conditions prescribed by laws and regulations.
 # IX.	Contact us
 If you have any questions or concerns about this agreement or data processing, or if you would like to make a complaint about a possible breach of local privacy laws, please contact us.
